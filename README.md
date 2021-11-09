@@ -13,7 +13,15 @@ Snowflake warehouse which takes in raw weather and restaurants (YELP) data into 
 
 ![Schemas](./images/Schemas.PNG)
 
-## Creating Raw tables
+## Uploading data to Stage areas
+
+Uploading using web portal
+![uploading_using_web](./images/upload_temp_data.PNG)
+
+Uploading using snowflake client to stage area
+![uploading_using_snowflake_client](./images/snow_flake_client_to_stage_area.PNG)
+
+## Creating Staging tables
 
 ![temp_and_perc](./images/Temp_Perceipitation_tables.PNG)
 
