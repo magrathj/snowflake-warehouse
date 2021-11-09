@@ -26,3 +26,13 @@ Uploading using snowflake client to stage area
 ![temp_and_perc](./images/Temp_Perceipitation_tables.PNG)
 
 ![yelp](./images/yelp_raw.PNG)
+
+
+## Creating ODS tables
+
+![yelp](./images/ods_tables.PNG)
+
+
+## Creating DWH tables
+
+![yelp](./images/dwh_tables.PNG)
