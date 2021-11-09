@@ -18,7 +18,7 @@ Snowflake warehouse which takes in raw weather and restaurants (YELP) data into 
 
 ## ERM 
 
-![ERM](./images/ERM.PNG)
+![ERM](./images/ERM.png)
 
 ## Schema
 
